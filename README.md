@@ -13,3 +13,5 @@ Machines;
 Search and Cross Validation;
 5. Replace corpus-level features with pretrained features: To apply pre-training to
 a downstream classification task and evaluate comparative performance.
+
+This project is a part of Winter 2022 Course - Large Scale Data Mining (ECE 219)
